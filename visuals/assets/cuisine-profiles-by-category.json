@@ -1,0 +1,1507 @@
+{
+    "person-1": {
+        "Restaurants": {
+            "American": [
+                "Oberlin",
+                "Lindens",
+                "Friedman's Hell's Kitchen",
+                "The Blue Dog",
+                "Avant Garden",
+                "Loring Place",
+                "Jack's Wife Freda",
+                "Catch NYC",
+                "The Nutcracker",
+                "Cookshop",
+                "Caf\u00e9 Fleur de Lis",
+                "Parm Mulberry Street",
+                "nicks on broadway",
+                "Salted Slate",
+                "The District"
+            ],
+            "Italian": [
+                "Osteria 57",
+                "Kimika",
+                "Locanda Verde",
+                "figidini",
+                "Fiaschetteria \"Pistoia\"",
+                "Piacere",
+                "Rubirosa",
+                "Bar Primi Bowery",
+                "Coletta",
+                "Canto West Village",
+                "Vezzo NYC Thin Crust Pizza",
+                "Massimo Ristorante",
+                "Cecconi's",
+                "Frangipani",
+                "Cecconi's Mumbai",
+                "Torrisi",
+                "Andino's Italian Restaurant",
+                "La Pecora Bianca SoHo",
+                "Bacaro",
+                "CinCin Mumbai",
+                "Parm Mulberry Street",
+                "Mamo",
+                "I Sodi",
+                "Bellini (Providence)",
+                "OLIO E PIU"
+            ],
+            "Japanese": [
+                "Kimika",
+                "Maki Kosaka",
+                "Planta Queen",
+                "Den Den Caf\u00e9 Asiana",
+                "Wasabi By Morimoto",
+                "Sakagura",
+                "NAMI",
+                "Jacky's Waterplace & Sushi",
+                "Pa Pa Ya"
+            ],
+            "Asian Fusion": [
+                "Kimika",
+                "Wayan",
+                "Chinese Tuxedo",
+                "KOKO Mumbai"
+            ],
+            "French": [
+                "Wayan",
+                "Caf\u00e9 Chelsea",
+                "Koloman",
+                "Mamo"
+            ],
+            "Indonesian": [
+                "Wayan"
+            ],
+            "South Indian": [
+                "Kanyakumari NYC",
+                "Semma"
+            ],
+            "Indian": [
+                "Kanyakumari NYC",
+                "Indigo Indian Restaurant & Bar",
+                "Jazba",
+                "Swati Snacks",
+                "GupShup",
+                "Cream Centre | Phoenix Palladium",
+                "Desi Galli",
+                "Semma",
+                "Junoon",
+                "Baar Baar",
+                "Nara Thai BKC"
+            ],
+            "Greek": [
+                "Zaytinya",
+                "Lola Taverna"
+            ],
+            "Lebanese": [
+                "Zaytinya",
+                "ilili Restaurant",
+                "Gustoso",
+                "Rue De Liban"
+            ],
+            "Mediterranean": [
+                "Zaytinya",
+                "Shuka",
+                "Caf\u00e9 Mogador",
+                "Shoo Shoo",
+                "Alta",
+                "ilili Restaurant",
+                "Lola Taverna",
+                "Avant Garden",
+                "ilona",
+                "Jack's Wife Freda",
+                "Barbounia",
+                "Mag St.",
+                "Zou Zou's",
+                "caspian breakfast and lunch"
+            ],
+            "Turkish": [
+                "Zaytinya"
+            ],
+            "Korean": [
+                "Hangawi",
+                "Den Den Caf\u00e9 Asiana",
+                "Den Den Korean Fried Chicken"
+            ],
+            "Vegetarian": [
+                "Hangawi",
+                "Coletta",
+                "Ladybird"
+            ],
+            "Vegan": [
+                "Hangawi",
+                "Coletta",
+                "Planta Queen",
+                "Ladybird"
+            ],
+            "Breakfast": [
+                "Amy's Place",
+                "Brickway on Wickeden",
+                "Jack's Wife Freda",
+                "Ruby's Caf\u00e9 - Murray Hill",
+                "caspian breakfast and lunch"
+            ],
+            "Bagels": [
+                "Bagel Gourmet Ole"
+            ],
+            "Pizza": [
+                "figidini",
+                "Piacere",
+                "Rubirosa",
+                "Lucali",
+                "Vezzo NYC Thin Crust Pizza",
+                "CinCin Mumbai",
+                "The District"
+            ],
+            "Malaysian": [
+                "Laut"
+            ],
+            "Singaporian": [
+                "Laut"
+            ],
+            "Southeast Asian": [
+                "Laut",
+                "Singapura"
+            ],
+            "Austrian": [
+                "Koloman"
+            ],
+            "Chinese": [
+                "MaLa Project",
+                "Caf\u00e9 China",
+                "Han Dynasty",
+                "Yauatcha Mumbai",
+                "By The Mekong",
+                "Buddakan",
+                "Che Li Manhattan",
+                "Jacky's Waterplace & Sushi"
+            ],
+            "Szechuan": [
+                "MaLa Project"
+            ],
+            "Thai": [
+                "Bangkok Supper Club",
+                "Valla Table",
+                "Pranakhon",
+                "Heng Thai & Rotisserie",
+                "Lan Larb Chiang Mai",
+                "Champa Thai + Lao Restaurant",
+                "By The Mekong",
+                "THEP Thai Restaurant",
+                "Bee's Thai Cuisine",
+                "Nara Thai BKC"
+            ],
+            "Sushi": [
+                "Maki Kosaka",
+                "Planta Queen",
+                "Catch NYC",
+                "NAMI",
+                "Jacky's Waterplace & Sushi"
+            ],
+            "Omakase": [
+                "Maki Kosaka",
+                "NAMI"
+            ],
+            "Spanish": [
+                "Boqueria Soho",
+                "Casa Dani",
+                "Nai"
+            ],
+            "Tapas": [
+                "Boqueria Soho",
+                "Ladybird",
+                "Debajo",
+                "Nai"
+            ],
+            "Georgian": [
+                "Chito Gvrito"
+            ],
+            "New Zealand": [
+                "The Musket Room"
+            ],
+            "Global": [
+                "The Musket Room",
+                "Kala Ghoda Caf\u00e9",
+                "Salted Slate"
+            ],
+            "Sichuan": [
+                "Caf\u00e9 China",
+                "Han Dynasty"
+            ],
+            "America": [
+                "Pura Vida Miami"
+            ],
+            "Bakery": [
+                "Pura Vida Miami"
+            ],
+            "Caf\u00e9": [
+                "Pura Vida Miami",
+                "Kala Ghoda Caf\u00e9",
+                "Caf\u00e9 Mogador",
+                "Aleppo Sweets",
+                "Tea in Sahara"
+            ],
+            "Contemporary": [
+                "Kala Ghoda Caf\u00e9"
+            ],
+            "Middle Eastern": [
+                "Moustache Pitza",
+                "Caf\u00e9 Mogador",
+                "ilili Restaurant",
+                "12 Chairs Caf\u00e9",
+                "Balaboosta"
+            ],
+            "Street Food": [
+                "Swati Snacks"
+            ],
+            "Moroccan": [
+                "Caf\u00e9 Mogador"
+            ],
+            "Israeli": [
+                "Shoo Shoo",
+                "12 Chairs Caf\u00e9",
+                "Balaboosta"
+            ],
+            "Brunch": [
+                "Shoo Shoo",
+                "RH Rooftop Restaurant New York",
+                "The Butcher's Daughter",
+                "Caf\u00e9 Fleur de Lis",
+                "Ruby's Caf\u00e9 - Murray Hill",
+                "caspian breakfast and lunch"
+            ],
+            "Singaporean": [
+                "Singapura"
+            ],
+            "Gluten Free": [
+                "Heng Thai & Rotisserie"
+            ],
+            "Bar": [
+                "Layali Restaurant Bar",
+                "Debajo"
+            ],
+            "Syrian": [
+                "Aleppo Sweets"
+            ],
+            "Asian": [
+                "Den Den Caf\u00e9 Asiana",
+                "By The Mekong",
+                "KOKO Mumbai",
+                "Mag St.",
+                "Jacky's Waterplace & Sushi"
+            ],
+            "Taqueria": [
+                "Xaco Taco",
+                "Tacombi"
+            ],
+            "Mexican": [
+                "Xaco Taco",
+                "La Contenta Oeste",
+                "Tacombi",
+                "Toloache"
+            ],
+            "Cocktail Bar": [
+                "Avant Garden",
+                "Bellini (Providence)",
+                "AperiBar"
+            ],
+            "Seafood": [
+                "Catch NYC",
+                "Salted Slate"
+            ],
+            "European": [
+                "The Nutcracker"
+            ],
+            "Dim Sum": [
+                "Yauatcha Mumbai"
+            ],
+            "Laotian": [
+                "Champa Thai + Lao Restaurant"
+            ],
+            "Wine Bar": [
+                "Bacaro"
+            ],
+            "International": [
+                "Bastian, Worli"
+            ],
+            "Southern": [
+                "Caf\u00e9 Fleur de Lis"
+            ],
+            "Continental": [
+                "Mag St."
+            ],
+            "Australian": [
+                "Ruby's Caf\u00e9 - Murray Hill"
+            ],
+            "Healthy": [
+                "Ladybird"
+            ],
+            "Tacos": [
+                "Tacombi"
+            ],
+            "Bistro": [
+                "nicks on broadway"
+            ],
+            "Portugese": [
+                "Aguardente"
+            ],
+            "Guatemalan": [
+                "Aguardente"
+            ],
+            "Mughlai": [
+                "Junoon"
+            ],
+            "Moroccon": [
+                "Tea in Sahara"
+            ],
+            "Tea": [
+                "Tea in Sahara"
+            ],
+            "Shanghainese": [
+                "Che Li Manhattan"
+            ],
+            "Burgers": [
+                "The District"
+            ]
+        },
+        "Bakeries": {
+            "Bagels": [
+                "Murray's Bagels",
+                "Broad Nosh Bagels 42nd Street",
+                "Tompkin Square Bagels"
+            ]
+        },
+        "Ice Cream & Desserts": {
+            "Ice Cream": [
+                "Three Sisters"
+            ]
+        }
+    },
+    "person-2": {
+        "Coffee & Tea": {
+            "Coffee Shop": [
+                "Bibliotheque",
+                "Black Fox Coffee",
+                "Ralph's Coffee",
+                "Ground Central Coffee Company",
+                "Urbana Cafe and Gallery",
+                "Afficionado Coffee Roasters",
+                "Coffee Project New York | Hell's Kitchen",
+                "For Five Coffee Times Square",
+                "WHITE NOISE COFFEE CO.",
+                "Frisson Espresso"
+            ],
+            "Wine Bar": [
+                "Bibliotheque"
+            ],
+            "Caf\u00e9": [
+                "Bibliotheque",
+                "Maman",
+                "Masseria Caff\u00e8 & Bakery",
+                "Bluestone Lane Upper West Side Caf\u00e9",
+                "Ground Central Coffee Company",
+                "Urbana Cafe and Gallery",
+                "Afficionado Coffee Roasters",
+                "Hex & Company",
+                "Hole In The Wall - Flatiron"
+            ],
+            "Tea": [
+                "The Chai Spot",
+                "Hex & Company"
+            ],
+            "Bubble Tea": [
+                "Tiger Sugar",
+                "TIGER SUGAR (KOREATOWN)",
+                "BIAO Sugar",
+                "Ho Ho T\u00e9",
+                "Gong Cha",
+                "Modern Tea Shop"
+            ],
+            "Bakery": [
+                "Maman",
+                "Masseria Caff\u00e8 & Bakery"
+            ],
+            "French": [
+                "Maman"
+            ],
+            "Coffee Ship": [
+                "Ralph's Coffee"
+            ],
+            "Australian": [
+                "Bluestone Lane Upper West Side Caf\u00e9",
+                "Hole In The Wall - Flatiron"
+            ],
+            "Coffee": [
+                "Afficionado Coffee Roasters",
+                "Hex & Company",
+                "Starbucks Reserve - Empire State Building"
+            ],
+            "Italian": [
+                "Caf\u00e9 Ginori at Bergdorf Goodman"
+            ],
+            "Brunch": [
+                "Daily Provisions - Union Square"
+            ]
+        },
+        "Restaurants": {
+            "Italian": [
+                "Oak Tuscan Truffle Lounge",
+                "Ci Siamo",
+                "La Voglia NYC",
+                "Sartiano's",
+                "La Pecora Bianca Midtown",
+                "Trattoria One Fifth by Chef Marc Forgione\u2019s | Italian Restaurant",
+                "Piccola Cucina Uptown",
+                "Rubirosa",
+                "Fiaschetteria \"Pistoia\"",
+                "Fumo Upper West Side",
+                "La Pecora Bianca SoHo",
+                "LaScala's Fire Marlton",
+                "Mama's TOO! Upper West Side",
+                "Bar Primi Penn District",
+                "La Masseria NY",
+                "Masseria dei Vini",
+                "Sant Ambroeus West Village",
+                "La Lanterna di Vittorio",
+                "Cathryn's",
+                "FUMO",
+                "Cibo e Vino",
+                "Don Antonio",
+                "Norma",
+                "Pep's on Grand",
+                "Monte's Trattoria",
+                "TESSA",
+                "Puglia",
+                "Pisticci",
+                "Serafina Italian Restaurant 77th Upper West",
+                "Millrock Restaurant & Bar Room",
+                "Tartina",
+                "Barbetta",
+                "Spritz",
+                "Norma Hell's Kitchen",
+                "Sotto 13",
+                "Patrizia's Of Manhattan",
+                "Carmine's",
+                "Carmine's Italian Restaurant - Upper West Side",
+                "Ortomare"
+            ],
+            "Korean": [
+                "Gaonnuri",
+                "Antoya Korean BBQ",
+                "red poke"
+            ],
+            "Barbecue": [
+                "Gaonnuri",
+                "Antoya Korean BBQ"
+            ],
+            "Food Court": [
+                "Harry's Table",
+                "Time Out Market New York"
+            ],
+            "Indian": [
+                "Bungalow",
+                "Kanyakumari NYC",
+                "Saravanaa Bhavan",
+                "Baazi Nyc",
+                "Goa New York",
+                "aRoqa",
+                "Gulaabo",
+                "Kebab aur Sharab",
+                "Bhatti Indian Grill",
+                "Rowdy Rooster - East Village",
+                "Pippali",
+                "The Kati Roll Company",
+                "PONGAL",
+                "Angaar Classic Indian Cuisine",
+                "Awadh",
+                "Utsav",
+                "Roti Roll",
+                "Deep Indian Kitchen",
+                "Saar Indian Cuisine & Bar"
+            ],
+            "American": [
+                "Tavern On the Green",
+                "Atlantic Fish Company",
+                "The Smith",
+                "Bea",
+                "Baylander Steel Beach",
+                "Sartiano's",
+                "Bar Primi Penn District",
+                "abc kitchen",
+                "NOMO Kitchen",
+                "NOMO SOHO",
+                "An\u0101r",
+                "Cookshop",
+                "Cozy Corner Cafe",
+                "Day June Luncheonette",
+                "Take Care",
+                "Stephanie's On Newbury",
+                "Earls Kitchen + Bar",
+                "Butter",
+                "Amity Hall Uptown",
+                "Spritz",
+                "The Smith",
+                "Community Food & Juice",
+                "The Ellington",
+                "The Smith",
+                "The Blue Dog",
+                "Tom's",
+                "Banc Cafe"
+            ],
+            "Malaysian": [
+                "WAU",
+                "Laut"
+            ],
+            "Indonesian": [
+                "WAU"
+            ],
+            "Singaporean": [
+                "WAU",
+                "Laut"
+            ],
+            "Seafood": [
+                "Atlantic Fish Company",
+                "Kyma Hudson Yards"
+            ],
+            "South Indian": [
+                "Kanyakumari NYC"
+            ],
+            "Mexican": [
+                "Lolita Fort Point",
+                "t\u00e1n",
+                "Toloache",
+                "A\u00f1ejo",
+                "Rosie's",
+                "Tacombi",
+                "Esse Taco"
+            ],
+            "Thai": [
+                "Thai Villa",
+                "Pinto Garden",
+                "ThongLor New York",
+                "Kraam",
+                "Malii Gramercy",
+                "Thai Market",
+                "Wondee Siam",
+                "Ayada",
+                "LumLum",
+                "Chalong NYC",
+                "Kare Thai"
+            ],
+            "Brunch": [
+                "Dudley's",
+                "Good Thanks Cafe",
+                "Tartinery Caf\u00e9 - Bar | Columbus Circle",
+                "Day June Luncheonette",
+                "RH Rooftop Restaurant New York",
+                "Community Food & Juice"
+            ],
+            "Noodles": [
+                "Momofuku Noodle Bar Uptown",
+                "Momofuku Noodle Bar"
+            ],
+            "Asian": [
+                "Momofuku Noodle Bar Uptown",
+                "Philippe Chow",
+                "Pinch Chinese"
+            ],
+            "Vegetarian": [
+                "Saravanaa Bhavan",
+                "Spicy Moon - West Village"
+            ],
+            "Izakaya": [
+                "Zuma New York",
+                "konban NYC"
+            ],
+            "Japanese": [
+                "Zuma New York",
+                "Bondi Sushi",
+                "konban NYC",
+                "Natsumi",
+                "SUGARFISH by sushi nozawa",
+                "Izakaya MEW",
+                "Jin Ramen Upper West Side",
+                "Kyuramen",
+                "Sapps",
+                "Ippudo Westside",
+                "Bohemian",
+                "BATSU!",
+                "Fuji Sushi",
+                "Sushi Damo",
+                "Blue Ribbon Sushi Bar at Hudson Eats",
+                "Sushi of Gari 46",
+                "Momofuku Noodle Bar",
+                "Bondi Sushi",
+                "Kikoo Sushi"
+            ],
+            "Sushi": [
+                "Zuma New York",
+                "The Lobster Club",
+                "Bondi Sushi",
+                "Momoya Chelsea",
+                "Momoya Upper West",
+                "Natsumi",
+                "SUGARFISH by sushi nozawa",
+                "Fuji Sushi",
+                "Sushi Damo",
+                "Blue Ribbon Sushi Bar at Hudson Eats",
+                "Sushi of Gari 46",
+                "Bondi Sushi",
+                "Kikoo Sushi"
+            ],
+            "Taiwanese": [
+                "Din Tai Fung",
+                "Din Tai Fung",
+                "Pinch Chinese"
+            ],
+            "Chinese": [
+                "Din Tai Fung",
+                "Din Tai Fung",
+                "M\u00e1l\u00e0 Project",
+                "Han Dynasty Upper West Side",
+                "TAO Downtown Restaurant",
+                "TAO Uptown",
+                "Nan Xiang Xiao Long Bao-Manhattan",
+                "Alley 41",
+                "Junzi Kitchen - Columbia U",
+                "Chai \u67f4\u9662 | Authentic Chinese Restaurant",
+                "Philippe Chow",
+                "Pinch Chinese",
+                "CHILI",
+                "108 Food Dried Hot Pot",
+                "Happy Hot Hunan",
+                "Szechuan Garden",
+                "Atlas Kitchen",
+                "Mr Chow"
+            ],
+            "Dim Sum": [
+                "Din Tai Fung",
+                "Din Tai Fung"
+            ],
+            "Mediterranean": [
+                "FIG & OLIVE",
+                "Bustan NYC",
+                "Kyma Hudson Yards",
+                "Pera Mediterranean Brasserie",
+                "Eleni's",
+                "Kashkaval Garden",
+                "Marlow Bistro",
+                "Committee",
+                "Anixi",
+                "White Olive",
+                "Lola Taverna",
+                "Pappas New York",
+                "Zou Zou\u2019s",
+                "Elysian Fields",
+                "Symposium"
+            ],
+            "Szechuan": [
+                "M\u00e1l\u00e0 Project",
+                "Alley 41",
+                "Pinch Chinese",
+                "CHILI",
+                "Spicy Moon - West Village"
+            ],
+            "Austrialian": [
+                "Good Thanks Cafe"
+            ],
+            "Breakfast": [
+                "Good Thanks Cafe",
+                "Cozy Corner Cafe"
+            ],
+            "Tapas": [
+                "Rosie's",
+                "Kashkaval Garden",
+                "Barcelona Wine Bar",
+                "La Barra at Mercado Little Spain"
+            ],
+            "Asian Fusion": [
+                "THISBOWL",
+                "TAO Downtown Restaurant",
+                "TAO Uptown",
+                "The Tyger",
+                "Myers+Chang"
+            ],
+            "Australian": [
+                "THISBOWL"
+            ],
+            "Healthy": [
+                "THISBOWL",
+                "Fresh From Hell",
+                "sweetgreen"
+            ],
+            "Israeli": [
+                "Bustan NYC",
+                "Frena",
+                "Anixi",
+                "12 Chairs Cafe"
+            ],
+            "Middle Eastern": [
+                "Bustan NYC",
+                "Frena",
+                "Au Za'atar",
+                "Moustache Pitza",
+                "12 Chairs Cafe"
+            ],
+            "Japenese": [
+                "The Lobster Club",
+                "Momoya Chelsea",
+                "Momoya Upper West",
+                "Raku"
+            ],
+            "Greek": [
+                "Kyma Hudson Yards",
+                "Eleni's",
+                "Mykonian House",
+                "Committee",
+                "Village Taverna",
+                "Lola Taverna",
+                "Pappas New York",
+                "Elysian Fields",
+                "Symposium"
+            ],
+            "Lebanese": [
+                "Au Za'atar",
+                "Tripoli Restaurant"
+            ],
+            "Shanghainese": [
+                "Nan Xiang Xiao Long Bao-Manhattan"
+            ],
+            "Southeast Asian": [
+                "The Tyger",
+                "Laut"
+            ],
+            "Pizza": [
+                "DUMBO House",
+                "Rubirosa",
+                "La O Restaurant",
+                "LaScala's Fire Marlton",
+                "Mama's TOO! Upper West Side",
+                "Don Antonio",
+                "Serafina Italian Restaurant 77th Upper West",
+                "Emmy Squared Pizza: Hell's Kitchen, New York",
+                "Patrizia's Of Manhattan",
+                "Ortomare",
+                "Koronet Pizza"
+            ],
+            "Salad": [
+                "DUMBO House",
+                "sweetgreen"
+            ],
+            "Sandwiches": [
+                "DUMBO House",
+                "Mama's TOO! Upper West Side",
+                "Roti Roll"
+            ],
+            "Taqueria": [
+                "Tacombi"
+            ],
+            "Tacos": [
+                "Tacombi",
+                "Esse Taco"
+            ],
+            "Fried Chicken": [
+                "Rowdy Rooster - East Village"
+            ],
+            "Fondue": [
+                "Kashkaval Garden"
+            ],
+            "Yakitori": [
+                "Izakaya MEW"
+            ],
+            "Ramen": [
+                "Jin Ramen Upper West Side",
+                "Kyuramen",
+                "Ippudo Westside",
+                "Kyuramen - Times Square",
+                "Momofuku Noodle Bar"
+            ],
+            "Bubble Tea": [
+                "Kyuramen"
+            ],
+            "Poke": [
+                "red poke",
+                "Red Poke",
+                "Poke Bowl"
+            ],
+            "French": [
+                "Cath\u00e9drale Restaurant",
+                "TESSA",
+                "Caf\u00e9 Chelsea",
+                "Cafe Luxembourg",
+                "Match 65 Brasserie",
+                "Creperie",
+                "Le Monde",
+                "Le Bouchon"
+            ],
+            "Sichuan": [
+                "CHILI",
+                "Szechuan Garden"
+            ],
+            "Caf\u00e9": [
+                "Sant Ambroeus West Village",
+                "Tartinery Caf\u00e9 - Bar | Columbus Circle",
+                "Arco Cafe",
+                "Le Monde"
+            ],
+            "Spanish": [
+                "Barcelona Wine Bar",
+                "La Barra at Mercado Little Spain",
+                "Mercado Little Spain",
+                "Spanish Diner at Mercado Little Spain"
+            ],
+            "Wine Bar": [
+                "Barcelona Wine Bar"
+            ],
+            "Bistro": [
+                "Marlow Bistro"
+            ],
+            "Vietnamese": [
+                "Miss Saigon"
+            ],
+            "Ethiopian": [
+                "Massawa"
+            ],
+            "Eritrean": [
+                "Massawa"
+            ],
+            "Vegan": [
+                "Spicy Moon - West Village",
+                "Anixi"
+            ],
+            "Burgers": [
+                "Match 65 Brasserie"
+            ],
+            "Steakhouse": [
+                "Match 65 Brasserie"
+            ],
+            "Hawaiian": [
+                "Red Poke"
+            ],
+            "Bagels": [
+                "Brooklyn Bagel & Coffee Company"
+            ],
+            "Taqueira": [
+                "Esse Taco"
+            ],
+            "Crepes": [
+                "Creperie"
+            ],
+            "Bar": [
+                "Amity Hall Uptown",
+                "Dutch Fred's"
+            ],
+            "Beer": [
+                "Amity Hall Uptown"
+            ],
+            "Turkish": [
+                "White Olive"
+            ],
+            "Pub": [
+                "The Ellington"
+            ],
+            "Hunan": [
+                "Happy Hot Hunan"
+            ],
+            "Diner": [
+                "Tom's",
+                "Spanish Diner at Mercado Little Spain"
+            ],
+            "Sicilian": [
+                "Norma Hell's Kitchen"
+            ]
+        },
+        "Ice Cream & Desserts": {
+            "Ice Cream": [
+                "Salt & Straw",
+                "Moo Moo's Creamery",
+                "Amorino Gelato and Cafe",
+                "Grace Street Coffee & Desserts"
+            ],
+            "Dessert": [
+                "Salt & Straw",
+                "Magnolia Bakery",
+                "Wafels & Dinges",
+                "L.A. Burdick Handmade Chocolates",
+                "Grace Street Coffee & Desserts",
+                "Max Brenner Chocolate Bar",
+                "Cafe Auburndale",
+                "Baked by Melissa",
+                "Milk Bar",
+                "Molly's Cupcakes"
+            ],
+            "Bakery": [
+                "Magnolia Bakery"
+            ],
+            "Belgian": [
+                "Wafels & Dinges"
+            ],
+            "Breakfast": [
+                "Wafels & Dinges"
+            ],
+            "Caf\u00e9": [
+                "L.A. Burdick Handmade Chocolates",
+                "Cafe Auburndale"
+            ],
+            "Chocolate Shop": [
+                "L.A. Burdick Handmade Chocolates",
+                "Max Brenner Chocolate Bar"
+            ],
+            "Asian": [
+                "Grace Street Coffee & Desserts"
+            ],
+            "Fondue": [
+                "Max Brenner Chocolate Bar"
+            ],
+            "Korean": [
+                "Cafe Auburndale"
+            ]
+        },
+        "Bars": {
+            "Cocktail Bar": [
+                "Sip&Guzzle",
+                "Angel\u2019s Share",
+                "Apotheke Chinatown",
+                "Peachy's",
+                "Employees Only",
+                "Paul's Cocktail Lounge",
+                "The Kartal",
+                "Somewhere Nowhere NYC - Lounge, Nightclub & Rooftop Pool",
+                "Book Club",
+                "The Spaniard",
+                "The Garret",
+                "The Headless Widow",
+                "PHD Terrace at Dream Midtown",
+                "230 Fifth Rooftop Bar"
+            ],
+            "Japanese": [
+                "Sip&Guzzle"
+            ],
+            "Bar": [
+                "Angel\u2019s Share",
+                "Electric Lemon",
+                "Paul's Casablanca",
+                "Monarch Rooftop",
+                "Somewhere Nowhere NYC - Lounge, Nightclub & Rooftop Pool",
+                "The Garret",
+                "Oscar Wilde",
+                "Gospel",
+                "PHD Terrace at Dream Midtown",
+                "Slate NY"
+            ],
+            "Asian": [
+                "Peachy's"
+            ],
+            "Chinese": [
+                "Peachy's"
+            ],
+            "American": [
+                "Employees Only",
+                "The Spaniard",
+                "Lillie's Victorian Establishment",
+                "PHD Terrace at Dream Midtown",
+                "Slate NY",
+                "Glass House Tavern",
+                "Cheeky Monkey Brewing Company",
+                "Stout NYC",
+                "The Grafton",
+                "230 Fifth Rooftop Bar"
+            ],
+            "Italian": [
+                "Employees Only"
+            ],
+            "Tapas": [
+                "Monarch Rooftop"
+            ],
+            "Korean": [
+                "Pocha 32"
+            ],
+            "Bar Food": [
+                "Pocha 32",
+                "Radegast Hall & Biergarten",
+                "Lillie's Victorian Establishment",
+                "The Grafton"
+            ],
+            "Caf\u00e9": [
+                "Book Club"
+            ],
+            "German": [
+                "Radegast Hall & Biergarten"
+            ],
+            "Brewery": [
+                "Radegast Hall & Biergarten",
+                "Cheeky Monkey Brewing Company"
+            ],
+            "British": [
+                "Lillie's Victorian Establishment"
+            ],
+            "Irish": [
+                "Lillie's Victorian Establishment",
+                "The Grafton"
+            ],
+            "Mexican": [
+                "Cheeky Monkey Brewing Company"
+            ],
+            "Southern": [
+                "Cheeky Monkey Brewing Company"
+            ],
+            "Burgers": [
+                "Stout NYC"
+            ]
+        },
+        "Bakeries": {
+            "American": [
+                "Pura Vida Miami"
+            ],
+            "Bakery": [
+                "Pura Vida Miami",
+                "Bibble & Sip",
+                "Ladur\u00e9e",
+                "Jonquils Cafe and Bakery",
+                "Magnolia Bakery - Rockefeller Center",
+                "The Hungarian Pastry Shop",
+                "Junior's Restaurant and Bakery"
+            ],
+            "Caf\u00e9": [
+                "Pura Vida Miami",
+                "Tatte Bakery & Cafe | Back Bay",
+                "Bibble & Sip",
+                "Ladur\u00e9e",
+                "Lafayette Grand Caf\u00e9 & Bakery"
+            ],
+            "Breakfast": [
+                "Tatte Bakery & Cafe | Back Bay"
+            ],
+            "Mediterranean": [
+                "Tatte Bakery & Cafe | Back Bay"
+            ],
+            "Coffee": [
+                "Bibble & Sip"
+            ],
+            "French": [
+                "Ladur\u00e9e",
+                "Lafayette Grand Caf\u00e9 & Bakery"
+            ],
+            "Cookies": [
+                "Levain Bakery \u2013 Original Location, 74th St, NYC"
+            ],
+            "Dessert": [
+                "Magnolia Bakery - Rockefeller Center",
+                "The Hungarian Pastry Shop"
+            ],
+            "Bagels": [
+                "Broad Nosh Bagels Deli & Catering 58th Street",
+                "Bagel Market"
+            ],
+            "Hungarian": [
+                "The Hungarian Pastry Shop"
+            ]
+        }
+    },
+    "person-3": {
+        "Restaurants": {
+            "Nordic": [
+                "ILIS"
+            ],
+            "Omakase": [
+                "J\u014dji",
+                "JOJI BOX"
+            ],
+            "Japanese": [
+                "J\u014dji",
+                "Masa",
+                "Sushi Kanesaka",
+                "Kioku by Endo Restaurant",
+                "Novikov Miami",
+                "JOJI BOX",
+                "Kamasu Sushi",
+                "BONDST Hudson Yards",
+                "Glaze Teriyaki",
+                "Nobu Washington D.C."
+            ],
+            "Sushi": [
+                "J\u014dji",
+                "Masa",
+                "Sushi Kanesaka",
+                "Novikov Miami",
+                "JOJI BOX",
+                "Kamasu Sushi",
+                "BONDST Hudson Yards",
+                "Nobu Washington D.C."
+            ],
+            "Chinese": [
+                "A. Wong",
+                "Hutong Dubai",
+                "House of Ming",
+                "Hutong New York",
+                "Nan Xiang Xiao Long Bao-Manhattan",
+                "Shan Shui, Chinese Kitchen"
+            ],
+            "Dim Sum": [
+                "A. Wong"
+            ],
+            "Indian": [
+                "Gymkhana",
+                "Adda Indian Canteen",
+                "COMORIN",
+                "Kanyakumari NYC",
+                "Himalayan Yak Restaurant",
+                "HYDERABADI ZAIQA",
+                "Angel",
+                "Bungalow",
+                "Shayona Cafe",
+                "Sagar Ratna",
+                "Chote Miya",
+                "Bombay Grill House",
+                "Mysttik Masaala"
+            ],
+            "Italian": [
+                "MAURO COLAGRECO",
+                "Lilia",
+                "Misi",
+                "Contessa Miami",
+                "Cipriani Dolci",
+                "Carne Mare",
+                "Lina Stores Marylebone Restaurant & Deli",
+                "Emmett's on Grove",
+                "San Sabino",
+                "Legacy Records",
+                "May Fair Kitchen, Mayfair",
+                "Olive Bar & Kitchen",
+                "Suprema Provisions",
+                "Diggin Caf\u00e9",
+                "EVOO Eatery & Pizzeria"
+            ],
+            "British": [
+                "MAURO COLAGRECO",
+                "HIDE",
+                "Fallow",
+                "sketch"
+            ],
+            "Mediterranean": [
+                "Theodora",
+                "Gaia Mayfair",
+                "La Petite Maison (LPM) London",
+                "May Fair Kitchen, Mayfair",
+                "Miss Ada"
+            ],
+            "Seafood": [
+                "ZZ's Club",
+                "The Mark Hotel",
+                "The Flora-Bama Yacht Club",
+                "San Sabino",
+                "Oceana"
+            ],
+            "Brunch": [
+                "HIDE",
+                "Sadelle's at Kith Miami Design District",
+                "Sadelle's New York",
+                "Win Son Bakery",
+                "Little Ruby's West Village"
+            ],
+            "American": [
+                "Sadelle's at Kith Miami Design District",
+                "Family Meal at Blue Hill",
+                "Rolo\u2019s",
+                "Sadelle's New York",
+                "The Mark Hotel",
+                "Mama Jo's Breakfast Cart",
+                "One White Street",
+                "Red Hook Tavern",
+                "Simon Pearce",
+                "Roberta's",
+                "Bernie\u2019s",
+                "La Bonbonniere",
+                "La Sandwicherie Miami Beach",
+                "The Flora-Bama Yacht Club",
+                "Hamburger America",
+                "The Henry",
+                "Legacy Records",
+                "Oceana",
+                "Loeb Boathouse",
+                "Barrel & Bushel",
+                "E.A.T."
+            ],
+            "Lebanese": [
+                "Em Sherif Cafe",
+                "Bebabel"
+            ],
+            "Cantonese": [
+                "Hutong Dubai"
+            ],
+            "Fusion": [
+                "COMORIN",
+                "Kioku by Endo Restaurant"
+            ],
+            "Korean": [
+                "Oiji Mi",
+                "Atoboy",
+                "COQODAQ"
+            ],
+            "Contemporary": [
+                "Rolo\u2019s",
+                "One White Street",
+                "Peak with Priceless Restauarant & Bar",
+                "SAISON",
+                "sketch"
+            ],
+            "New Zealand": [
+                "The Musket Room"
+            ],
+            "Global": [
+                "The Musket Room",
+                "Brooklands",
+                "Niche Niche"
+            ],
+            "Asian Fusion": [
+                "B\u00c2OLI Miami"
+            ],
+            "Mexican": [
+                "Chateau ZZ's",
+                "Nizuc",
+                "t\u00e1n",
+                "Empellon",
+                "Dos Toros Taqueria"
+            ],
+            "New Mexican": [
+                "Chateau ZZ's"
+            ],
+            "Breakfast": [
+                "Sadelle's Coconut Grove",
+                "La Bonbonniere"
+            ],
+            "Jewish": [
+                "Sadelle's New York"
+            ],
+            "French": [
+                "The Mark Hotel",
+                "Le Crocodile",
+                "La Petite Maison (LPM) London",
+                "Caf\u00e9 Laperouse",
+                "SAISON",
+                "L'Accolade",
+                "Felix"
+            ],
+            "Steakhouse": [
+                "Carne Mare"
+            ],
+            "Thai": [
+                "Greyhound Caf\u00e9 London",
+                "Pranakhon"
+            ],
+            "Malaysian": [
+                "Taste Good"
+            ],
+            "Taiwanese": [
+                "Win Son Bakery"
+            ],
+            "Caf\u00e9": [
+                "Win Son Bakery",
+                "The Grey Dog - West Village"
+            ],
+            "Delicatessen": [
+                "Lina Stores Marylebone Restaurant & Deli"
+            ],
+            "Burgers": [
+                "Red Hook Tavern",
+                "Red Rooster at the Woodstock Inn & Resort",
+                "Hamburger America"
+            ],
+            "Bar": [
+                "Peacock Alley",
+                "Bernie\u2019s",
+                "American Express Centurion Lounge",
+                "Temple Bar"
+            ],
+            "European": [
+                "Brooklands",
+                "Corner Bar"
+            ],
+            "Nepalese": [
+                "Himalayan Yak Restaurant"
+            ],
+            "Tibetan": [
+                "Himalayan Yak Restaurant"
+            ],
+            "Chicken": [
+                "Red Rooster at the Woodstock Inn & Resort"
+            ],
+            "Salad": [
+                "Red Rooster at the Woodstock Inn & Resort"
+            ],
+            "Bagels": [
+                "Leon's Bagels"
+            ],
+            "Asian": [
+                "Novikov Miami",
+                "Pa Pa Ya"
+            ],
+            "Bistro": [
+                "L'Accolade",
+                "Corner Bar"
+            ],
+            "Vietnamese": [
+                "Madame Vo"
+            ],
+            "Pizza": [
+                "Emmett's on Grove",
+                "Roberta's",
+                "My Pie Pizzeria Romana",
+                "EVOO Eatery & Pizzeria"
+            ],
+            "Bar Food": [
+                "Emmett's on Grove",
+                "Ophelia Lounge"
+            ],
+            "Bakery": [
+                "Prada Caff\u00e8"
+            ],
+            "Coffee": [
+                "Prada Caff\u00e8"
+            ],
+            "Diner": [
+                "La Bonbonniere"
+            ],
+            "Sandwiches": [
+                "La Sandwicherie Miami Beach",
+                "Diso\u2019s Sandwich"
+            ],
+            "Fried Chicken": [
+                "COQODAQ"
+            ],
+            "Vegetarian": [
+                "Shayona Cafe"
+            ],
+            "International": [
+                "Shayona Cafe"
+            ],
+            "South Asian": [
+                "Sagar Ratna"
+            ],
+            "Streetfood": [
+                "Chote Miya"
+            ],
+            "Teriyaki": [
+                "Glaze Teriyaki"
+            ],
+            "Shanghainese": [
+                "Nan Xiang Xiao Long Bao-Manhattan"
+            ],
+            "Tea": [
+                "sketch"
+            ],
+            "Filipino": [
+                "Renee's Kitchenette & Grill"
+            ],
+            "Spanish": [
+                "Barrafina Adelaide Street"
+            ],
+            "Tapas": [
+                "Barrafina Adelaide Street"
+            ],
+            "Fondue": [
+                "St Moritz Restaurant"
+            ],
+            "Swiss": [
+                "St Moritz Restaurant"
+            ],
+            "Continental": [
+                "Diggin Caf\u00e9"
+            ],
+            "Middle Eastern": [
+                "Miss Ada"
+            ],
+            "Greek": [
+                "Nerai"
+            ]
+        },
+        "Ice Cream & Desserts": {
+            "Dessert": [
+                "Lindt Home of Chocolate Cafe"
+            ],
+            "Chocolate Shop": [
+                "Lindt Home of Chocolate Cafe"
+            ],
+            "Ice Cream": [
+                "Lindt Home of Chocolate Cafe",
+                "Julietta Gelato Caf\u00e8"
+            ]
+        },
+        "Bakeries": {
+            "Bakery": [
+                "Nick + Sons Bakery",
+                "Home Bakery Kitchen",
+                "ALF Bakery",
+                "Rosetta Bakery Brickell",
+                "Bakeri"
+            ],
+            "Coffee Shop": [
+                "WatchHouse 5th Ave."
+            ],
+            "Caf\u00e9": [
+                "Claridge's ArtSpace Caf\u00e9"
+            ],
+            "Italian": [
+                "Eataly Soho"
+            ]
+        },
+        "Bars": {
+            "Bar": [
+                "Gospel",
+                "Bemelmans Bar",
+                "Disrepute - Cocktail Bar in Soho"
+            ],
+            "American": [
+                "Westlight"
+            ],
+            "Cocktail Bar": [
+                "Bemelmans Bar",
+                "The Rivoli Bar",
+                "Bar at Eleven Madison Park",
+                "Kioku by Endo Bar",
+                "The Spy Bar"
+            ]
+        },
+        "Coffee & Tea": {
+            "Coffee Shop": [
+                "KIJITORA",
+                "% Arabica 30 Rock",
+                "Zibetto Espresso Bar"
+            ],
+            "Tea": [
+                "KIJITORA",
+                "Qahwah House"
+            ],
+            "Caf\u00e9": [
+                "SHOT London - Mayfair",
+                "Qahwah House",
+                "% Arabica 30 Rock",
+                "Mon Vert Cafe",
+                "Lavazza Flagship Store",
+                "Matcha Cafe Maiko",
+                "Seven Grams Caffe",
+                "Ademi Coffee and Tea"
+            ],
+            "Arabic": [
+                "Qahwah House"
+            ],
+            "Coffee": [
+                "% Arabica 30 Rock",
+                "Madman Espresso & Bakery",
+                "Ademi Coffee and Tea"
+            ],
+            "Italian": [
+                "Lavazza Flagship Store"
+            ],
+            "Japanese": [
+                "Matcha Cafe Maiko"
+            ],
+            "Ice Cream": [
+                "Matcha Cafe Maiko"
+            ],
+            "Bakery": [
+                "Mah-Ze-Dahr Bakery",
+                "Seven Grams Caffe"
+            ]
+        }
+    }
+}

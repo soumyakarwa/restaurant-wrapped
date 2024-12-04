@@ -47,6 +47,8 @@ def process_multiple_csv_to_json(input_files, output_file):
                             result[person_key][current_section][key] = value.strip()
                     elif current_section == "Restaurant Information":
                         entry = {key: value.strip() for key, value in zip(headers, row)}
+                        if "Cuisine" in entry and entry["Cuisine"]:
+                            entry["Cuisine"] = [c.strip() for c in entry["Cuisine"].split(',')]
                         result[person_key][current_section].append(entry)
 
         # Write the result to a JSON file
@@ -60,5 +62,5 @@ def process_multiple_csv_to_json(input_files, output_file):
 # Example usage
 if __name__ == "__main__":
     input_csv_files = ["person-1.csv", "person-2.csv", "person-3.csv"]  # Replace with your actual file paths
-    output_json = "user-data.json"  # Desired output JSON file path
+    output_json = "../visuals/assets/user-data.json"  # Desired output JSON file path
     process_multiple_csv_to_json(input_csv_files, output_json)

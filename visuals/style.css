@@ -1,0 +1,27 @@
+:root {
+  --green: #134f5d;
+  --beige: #f1f0ea;
+  --white: #ffffff;
+  --black: #000000;
+  --yellow: #eac560;
+  --body-font: "Baskerville";
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: 1.6;
+  color: #333;
+  background-color: var(--white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* font-family: "baskerville-display-pt", serif; */
+  font-weight: 300;
+  font-family: "Baskerville";
+}
+
+@font-face {
+  font-family: "Baskerville";
+  src: url("./assets/Baskerville.ttc");
+}
